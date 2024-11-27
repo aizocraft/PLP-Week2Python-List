@@ -37,7 +37,7 @@ The script includes the following operations:
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/your-username/list-operations-python.git
+   git clone https://github.com/aizocraft/PLP-Week2Python-List.git
    cd list-operations-python
 2.Run the code
   python list_operations.py
